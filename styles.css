@@ -17,9 +17,18 @@ body {
   background-image: url("../images/shovelgod.jpg");
 }
 
-.farm-page h1, .farm-page h2, .farm-page h3 {
+.farm-page h1 {
   color: #da0d0d;
 }
+
+.farm-page h2 {
+  color: #da0d0d;
+}
+
+.farm-page h3 {
+  color: #da0d0d;
+}
+
 
 .farm-page li {
   color: #ded014;
@@ -100,6 +109,7 @@ h2 {
 p, li {
   font-size: 1rem;
 }
+
 
 
 
