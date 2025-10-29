@@ -13,6 +13,9 @@ body {
   padding: 0;
 }
 
+#farm-body {
+  background-image: url("../images/shovelgod.jpg");
+}
 
 nav {
   background-color: #004d99;
@@ -98,3 +101,4 @@ footer {
   margin-top: 2em;
   font-size: 0.9rem;
 }
+
