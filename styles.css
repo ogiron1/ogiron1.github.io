@@ -96,6 +96,10 @@ p, li {
   font-size: 1rem;
 }
 
+#farmli {
+  color: #3a782c;
+}
+
 
 footer {
   text-align: center;
@@ -105,5 +109,6 @@ footer {
   margin-top: 2em;
   font-size: 0.9rem;
 }
+
 
 
